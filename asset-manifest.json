@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/-Spidr_Design/static/css/main.4051be5b.css",
+    "main.js": "/-Spidr_Design/static/js/main.de5dc816.js",
+    "static/js/453.bd8f5924.chunk.js": "/-Spidr_Design/static/js/453.bd8f5924.chunk.js",
+    "index.html": "/-Spidr_Design/index.html",
+    "main.4051be5b.css.map": "/-Spidr_Design/static/css/main.4051be5b.css.map",
+    "main.de5dc816.js.map": "/-Spidr_Design/static/js/main.de5dc816.js.map",
+    "453.bd8f5924.chunk.js.map": "/-Spidr_Design/static/js/453.bd8f5924.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4051be5b.css",
+    "static/js/main.de5dc816.js"
+  ]
+}
