@@ -2,7 +2,7 @@
   "name": "spidr-form",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://abiredi.github.io/abiredi",
+  "homepage": "https://abiredi.github.io/-Spidr_Design",
   "dependencies": {
     "@react-three/drei": "^10.5.1",
     "@react-three/fiber": "^9.2.0",
