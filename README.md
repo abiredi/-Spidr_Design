@@ -1,4 +1,3 @@
-# 👋 Hi, I'm Abhiram Reddy
 
 ## 🚀 Full-Stack Developer, Generative AI, Prompt Engineer & CS Student
 
